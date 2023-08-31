@@ -1,0 +1,2 @@
+aiohttp[speedups] ~= 3.8
+nats-py[nkeys] ~= 2.3
